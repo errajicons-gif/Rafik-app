@@ -1,0 +1,6 @@
+{
+  "name": "Rafiq AI",
+  "description": "Your Intelligent Accessibility Companion supporting vision, voice, communication, live captioning, reading, and adaptive learning with Arabic RTL, French, and English support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
